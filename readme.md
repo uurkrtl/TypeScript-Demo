@@ -1,4 +1,4 @@
-Click for codes
+[Click for codes](https://github.com/uurkrtl/TypeScript-Demo/blob/main/src/main.ts)
 
 ## Coding: TypeScript Basics
 
@@ -23,8 +23,6 @@ Create a new Vite project with the vanilla and TypeScript template in IntelliJ.
   Display 'isAdmin is evaluated as truthy.' if 'isAdmin' is considered 'truthy'.
 * Step 12: Use an 'if' statement to check if 'isAdmin' is 'false'.
   Display 'isAdmin is false.' if 'isAdmin' has the value 'false'.
-* Please post the link to a GitHub repository where you have solved this task together.
-  `inputfield`
 * If you have already completed this task earlier, you may work on the bonus task on the next page.
 
 ## Bonus

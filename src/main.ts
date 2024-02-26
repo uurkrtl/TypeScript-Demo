@@ -51,3 +51,27 @@ if (isAdmin) {
 if (!isAdmin) {
     console.log('isAdmin is false');
 }
+
+//Bonus Task: Christmas tree
+let n:number = 5;
+let star:string='';
+for (let i = 1; i<=n; i++){
+    for(let j = 1; j<=n+i-1; j++){
+        if (j<=n-i){
+            star+=' '
+        }else {
+            star+='*';
+        }
+    }
+    console.log(star);
+    star = '';
+}
+
+for (let i = 1; i<=n; i++){
+    for (let j =  1; j<n-1; j++){
+        star+=' '
+    }
+    star+='*';
+    console.log(star);
+    star='';
+}
