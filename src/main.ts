@@ -2,7 +2,7 @@
 let age:number = 36;
 
 //Step 2: Write a 'for' loop that outputs the numbers from 1 to 'age'.
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= age; i++) {
     console.log(i);
 }
 
